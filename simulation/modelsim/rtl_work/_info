@@ -1,0 +1,153 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\16144\Desktop\Code\vhdl\VGA_Monitor\simulation\modelsim
+Edisplay
+Z1 w1613237942
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\16144\Desktop\Code\vhdl\VGA_Monitor\simulation\modelsim
+Z6 8C:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/display.vhd
+Z7 FC:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/display.vhd
+l0
+L8
+V4_nVkzSJhDf9?@l`@nSlJ0
+Z8 OV;C;10.1d;51
+31
+Z9 !s108 1613241901.343000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/display.vhd|
+Z11 !s107 C:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/display.vhd|
+Z12 o-93 -work work -O0
+Z13 tExplicit 1
+!s100 5JKZ>BEEPZciXdR<5`ELl1
+!i10b 1
+Artl
+R2
+R3
+R4
+DEx4 work 7 display 0 22 4_nVkzSJhDf9?@l`@nSlJ0
+l69
+L31
+VBlh4g1PQndK=f^Tg:IU082
+R8
+31
+R9
+R10
+R11
+R12
+R13
+!s100 `n=eNMB?JDfjii2T]o`mn1
+!i10b 1
+Emap_clk
+Z14 w1612731201
+R2
+R3
+R4
+R5
+Z15 8C:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/map_clk.vhd
+Z16 FC:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/map_clk.vhd
+l0
+L8
+VM`4Hz;M>U9IJTdW:BF[UA1
+R8
+31
+Z17 !s108 1613241901.473000
+Z18 !s90 -reportprogress|300|-93|-work|work|C:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/map_clk.vhd|
+Z19 !s107 C:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/map_clk.vhd|
+R12
+R13
+!s100 n2`DZA^mVY^5BiNIS@VF51
+!i10b 1
+Artl
+R2
+R3
+R4
+DEx4 work 7 map_clk 0 22 M`4Hz;M>U9IJTdW:BF[UA1
+l20
+L15
+V?<RZ8ScdgfGBRDU^bJ>3b1
+R8
+31
+R17
+R18
+R19
+R12
+R13
+!s100 =<2MKM4dU2b;HfXC_QfG:3
+!i10b 1
+Epatterns
+Z20 w1613237328
+R2
+R3
+R4
+R5
+Z21 8C:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/patterns.vhd
+Z22 FC:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/patterns.vhd
+l0
+L7
+VUQH10onDTPAU`HhaG]3823
+R8
+31
+Z23 !s108 1613241901.559000
+Z24 !s90 -reportprogress|300|-93|-work|work|C:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/patterns.vhd|
+Z25 !s107 C:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/patterns.vhd|
+R12
+R13
+!s100 Og[CDKEB@T?Ba5B;gJFZk3
+!i10b 1
+Artl
+R2
+R3
+R4
+DEx4 work 8 patterns 0 22 UQH10onDTPAU`HhaG]3823
+l21
+L19
+VX@L5V;hGSP>J7AI3<n2hZ0
+R8
+31
+R23
+R24
+R25
+R12
+R13
+!s100 haj`U;DY42lR@4?1PV<]J3
+!i10b 1
+Evga_sync
+Z26 w1613238831
+R2
+R3
+R4
+R5
+Z27 8C:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/vga_sync.vhd
+Z28 FC:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/vga_sync.vhd
+l0
+L28
+ViWzA6Lk4dbn1T;KVgR_Y03
+!s100 APgG2izGf>ZM[QbT0XZEQ1
+R8
+31
+!i10b 1
+Z29 !s108 1613241901.645000
+Z30 !s90 -reportprogress|300|-93|-work|work|C:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/vga_sync.vhd|
+Z31 !s107 C:/Users/16144/Desktop/Code/vhdl/VGA_Monitor/vga_sync.vhd|
+R12
+R13
+Artl
+R2
+R3
+R4
+DEx4 work 8 vga_sync 0 22 iWzA6Lk4dbn1T;KVgR_Y03
+l55
+L48
+V_jN::;[0Yk4YVD:dHGDDL1
+!s100 CC0zAdTAYfA5Jn>6SR[8M2
+R8
+31
+!i10b 1
+R29
+R30
+R31
+R12
+R13
